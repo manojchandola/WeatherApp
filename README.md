@@ -1,11 +1,11 @@
 ### API from openweathermap
 https://api.openweathermap.org/data/2.5/forecast?q=London,us&mode=xml&appid=648a3aac37935e5b45e09727df728ac2
-◦    above URL provide data in XML format, if required in json remove "mode=xml"
-◦    replace appid value with your own appid
+1. above URL provide data in XML format, if required in json remove "mode=xml"
+2. replace appid value with your own appid
 
 ### Getting Started
-◦   open the project DemoOpenWeather.xcodeproj to run the project
-◦   cmd+B to build the project, and cmd+R to run
+1. open the project DemoOpenWeather.xcodeproj to run the project
+2. cmd+B to build the project, and cmd+R to run
 
 ###  Features Implemented
 1. Integrated Weather API for up-to-date weather forecast for next 5 days
