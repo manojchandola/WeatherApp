@@ -5,11 +5,16 @@ https://api.openweathermap.org/data/2.5/forecast?q=London,us&mode=xml&appid=648a
 
 ### Getting Started
 1. open the project DemoOpenWeather.xcodeproj to run the project
-2. cmd+B to build the project, and cmd+R to run
+2. cmd+B to build the project, and cmd+R to run 
 
 ###  Features Implemented
-1. Integrated Weather API for up-to-date weather forecast for next 5 days
-2. View weather forecasts of a city mentioned
+1. Design pattern followed as MVVM
+2. Integrated Weather API for up-to-date weather forecast for next 5 days
+3. View weather forecasts of a city mentioned
+
+### Unit Test Cases
+1. Unit test case passed for Weather Model
+2. Unit test case passed for WeatherView Model for web-service calling
 
 ### Missing Features
 1. Showing all list of weather forecasts in single view of a city
